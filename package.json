@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "rxjs": "5.0.0-beta.12",
-    "lodash": "4.17.10",
+    "lodash": "4.17.15",
     "core-js": "2.5.7",
     "zone.js": "0.6.26",
     "ts-helpers": "1.1.2",
